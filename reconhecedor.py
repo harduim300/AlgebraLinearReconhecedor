@@ -312,4 +312,4 @@ def reconhecimento(imgTeste, usarPCA, banco_imagens, tipo_Mapeamento, n_indices)
 
 
 # Imagens-Teste, Usar Pca, Exibir Imagens Comparacao, Caminho Imagens banco, Tipo modelo, Numero de imagens por pessoa
-reconhecimento(["3-1.jpg", "2-6.jpg", "4-3.jpg", "2-4.jpg", "5-5.jpg"],True, 'recdev-master/extras/facebookfaces/', 'FB', 9)
+# reconhecimento(["3-1.jpg", "2-6.jpg", "4-3.jpg", "2-4.jpg", "5-5.jpg"],True, 'recdev-master/extras/facebookfaces/', 'FB', 9)
